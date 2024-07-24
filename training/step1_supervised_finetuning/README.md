@@ -141,3 +141,6 @@ deepspeed --num_nodes=2 --num_gpus=2 --hostfile hostfile --launcher pdsh --launc
 ```
 
 附：下载Llama-2-7b-hf
+
+minigpt-4:https://github.com/Vision-CAIR/MiniGPT-4
+中文llama 预训练模型地址：https://github.com/ymcui/Chinese-LLaMA-Alpaca-2?tab=readme-ov-file
